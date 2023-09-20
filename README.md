@@ -10,7 +10,7 @@
       </a>
     </td>
     <td>
-      <a href="">
+      <a href="https://github.com/orgs/UMC-HSU-iOS/people/minsolkim">
         <img src="" width="100" style="max-width: 100%;">
       </a>
     </td>
@@ -30,7 +30,7 @@
       <a href="https://github.com/y2hscmtk">최강</a>
     </td>
     <td align="center">
-      <a href="">김민솔</a>
+      <a href="https://github.com/orgs/UMC-HSU-iOS/people/minsolkim">김민솔</a>
     </td>
     <td align="center">
       <a href="https://github.com/yuzzin0121">조유진</a>
