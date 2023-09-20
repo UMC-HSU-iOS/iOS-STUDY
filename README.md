@@ -11,7 +11,7 @@
     </td>
     <td>
       <a href="https://github.com/orgs/UMC-HSU-iOS/people/minsolkim">
-        <img src="" width="100" style="max-width: 100%;">
+        <img src="https://avatars.githubusercontent.com/u/94881886?v=4" width="100" style="max-width: 100%;">
       </a>
     </td>
     <td>
